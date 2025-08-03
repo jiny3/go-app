@@ -36,7 +36,7 @@ go run main.go
 ├── main.go       # 入口文件
 ├── README.md
 ├── resource      # 长连接 client
-├── service       # 业务逻辑
+├── services      # 业务逻辑
 │   └── hello.go
 ├── tools         # 工具库
 └── utils         # 公用组件
