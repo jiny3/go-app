@@ -29,7 +29,7 @@ go run main.go
 │   ├── init.go   # 初始化逻辑
 │   └── start.go  # 启动逻辑
 ├── config        # 配置
-│   └──  app.toml  
+│   └── app.toml  
 ├── go.mod
 ├── go.sum
 ├── main.go       # 入口文件
