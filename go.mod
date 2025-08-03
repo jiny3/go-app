@@ -3,7 +3,7 @@ module github.com/jiny3/go-app
 go 1.23.5
 
 require (
-	github.com/jiny3/gopkg v0.0.0-20250803122138-d6fbf2366c80
+	github.com/jiny3/gopkg v0.0.0-20250803131602-d24eb213e61e
 	github.com/sirupsen/logrus v1.9.3
 )
 

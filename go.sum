@@ -41,8 +41,8 @@ github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeN
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
 github.com/hashicorp/hcl v1.0.0 h1:0Anlzjpi4vEasTeNFn2mLJgTSwt0+6sfsiTG8qcWGx4=
 github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T20WEQ=
-github.com/jiny3/gopkg v0.0.0-20250803122138-d6fbf2366c80 h1:1qlDb/Bxfu1q8qJswmAy7tXAPz07CenOJkqQs6j3NKQ=
-github.com/jiny3/gopkg v0.0.0-20250803122138-d6fbf2366c80/go.mod h1:SY6rbFX1K/3FKg/j/MVDlYYwhmV6IF7RsrzZNnFoTa4=
+github.com/jiny3/gopkg v0.0.0-20250803131602-d24eb213e61e h1:6txW5NWI6mGq822DCGk5dAyaAtvP0BWIjtoE8TW7Pso=
+github.com/jiny3/gopkg v0.0.0-20250803131602-d24eb213e61e/go.mod h1:SY6rbFX1K/3FKg/j/MVDlYYwhmV6IF7RsrzZNnFoTa4=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
 github.com/json-iterator/go v1.1.12/go.mod h1:e30LSqwooZae/UwlEbR2852Gd8hjQvJoHmT4TnhNGBo=
 github.com/klauspost/compress v1.17.11 h1:In6xLpyWOi1+C7tXUUWv2ot1QvBjxevKAaI6IXrJmUc=
