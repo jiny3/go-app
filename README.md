@@ -32,6 +32,7 @@ go run main.go
 │   └── app.toml  
 ├── go.mod
 ├── go.sum
+├── library       # lib 库
 ├── main.go       # 入口文件
 ├── README.md
 ├── resource      # 长连接 client
