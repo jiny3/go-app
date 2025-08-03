@@ -38,5 +38,6 @@ go run main.go
 ├── resource      # 长连接 client
 ├── service       # 业务逻辑
 │   └── hello.go
+├── tools         # 工具库
 └── utils         # 公用组件
 ```
